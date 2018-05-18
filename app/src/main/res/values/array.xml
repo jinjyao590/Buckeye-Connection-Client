@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>AO, Angola</item>
+        <item>AF, Afghanistan</item>
+        <item>AL, Albania</item>
+        <item>DZ, Algeria</item>
+        <item>AD, Andorra</item>
+        <item>AI, Anguilla</item>
+        <item>AG, Barbuda Antigua</item>
+        <item>AR, Argentina</item>
+        <item>AM, Armenia</item>
+        <item>AU, Australia</item>
+        <item>AT, Austria</item>
+        <item>AZ, Azerbaijan</item>
+        <item>BS, Bahamas</item>
+        <item>BH, Bahrain</item>
+        <item>BD, Bangladesh</item>
+        <item>BB, Barbados</item>
+        <item>BY, Belarus</item>
+        <item>BE, Belgium</item>
+        <item>BZ, Belize</item>
+        <item>BJ, Benin</item>
+        <item>BM, Bermuda Is.</item>
+        <item>BO, Bolivia</item>
+        <item>BW, Botswana</item>
+        <item>BR, Brazil</item>
+        <item>BN, Brunei</item>
+        <item>BG, Bulgaria</item>
+        <item>BF, Burkina-faso</item>
+        <item>MM, Burma</item>
+        <item>BI, Burundi</item>
+        <item>CM, Cameroon</item>
+        <item>CA, Canada</item>
+        <item>CF, Central African Republic</item>
+        <item>TD, Chad</item>
+        <item>CL, Chile</item>
+        <item>CN, China</item>
+        <item>CO, Colombia</item>
+        <item>CG, Congo</item>
+        <item>CK, Cook Is.</item>
+        <item>CR, Costa Rica</item>
+        <item>CU, Cuba</item>
+        <item>CY, Cyprus</item>
+        <item>CZ, Czech Republic</item>
+        <item>DK, Denmark</item>
+        <item>DJ, Djibouti</item>
+        <item>DO, Dominica Rep.</item>
+        <item>EC, Ecuador</item>
+        <item>EG, Egypt</item>
+        <item>SV, EI Salvador</item>
+        <item>EE, Estonia</item>
+        <item>ET, Ethiopia</item>
+        <item>FJ, Fiji</item>
+        <item>FI, Finland</item>
+        <item>FR, France</item>
+        <item>GF, French Guiana</item>
+        <item>GA, Gabon</item>
+        <item>GM, Gambia</item>
+        <item>GE, Georgia</item>
+        <item>DE, Germany</item>
+        <item>GH, Ghana</item>
+        <item>GI, Gibraltar</item>
+        <item>GR, Greece</item>
+        <item>GD, Grenada</item>
+        <item>GU, Guam</item>
+        <item>GT, Guatemala</item>
+        <item>GN, Guinea</item>
+        <item>GY, Guyana</item>
+        <item>HT, Haiti</item>
+        <item>HN, Honduras</item>
+        <item>HK, Hongkong</item>
+        <item>HU, Hungary</item>
+        <item>IS, Iceland</item>
+        <item>IN, India</item>
+        <item>ID, Indonesia</item>
+        <item>IR, Iran</item>
+        <item>IQ, Iraq</item>
+        <item>IE, Ireland</item>
+        <item>IL, Israel</item>
+        <item>IT, Italy</item>
+        <item>JM, Jamaica</item>
+        <item>JP, Japan</item>
+        <item>JO, Jordan</item>
+        <item>KH, Kampuchea (Cambodia )</item>
+        <item>KZ, Kazakstan</item>
+        <item>KE, Kenya</item>
+        <item>KR, Korea</item>
+        <item>KW, Kuwait</item>
+        <item>KG, Kyrgyzstan</item>
+        <item>LA, Laos</item>
+        <item>LV, Latvia</item>
+        <item>LB, Lebanon</item>
+        <item>LS, Lesotho</item>
+        <item>LR, Liberia</item>
+        <item>LY, Libya</item>
+        <item>LI, Liechtenstein</item>
+        <item>LT, Lithuania</item>
+        <item>LU, Luxembourg</item>
+        <item>MO, Macao</item>
+        <item>MG, Madagascar</item>
+        <item>MW, Malawi</item>
+        <item>MY, Malaysia</item>
+        <item>MV, Maldives</item>
+        <item>ML, Mali</item>
+        <item>MT, Malta</item>
+        <item>MU, Mauritius</item>
+        <item>MX, Mexico</item>
+        <item>MD, Moldova</item>
+        <item>MC, Monaco</item>
+        <item>MN, Mongolia</item>
+        <item>MS, Montserrat Is.</item>
+        <item>MA, Morocco</item>
+        <item>MZ, Mozambique</item>
+        <item>NA, Namibia</item>
+        <item>NR, Nauru</item>
+        <item>NP, Nepal</item>
+        <item>NL, Netherlands</item>
+        <item>NZ, New Zealand</item>
+        <item>NI, Nicaragua</item>
+        <item>NE, Niger</item>
+        <item>NG, Nigeria</item>
+        <item>KP, North Korea</item>
+        <item>NO, Norway</item>
+        <item>OM, Oman</item>
+        <item>PK, Pakistan</item>
+        <item>PA, Panama</item>
+        <item>PG, Papua New Cuinea</item>
+        <item>PY, Paraguay</item>
+        <item>PE, Peru</item>
+        <item>PH, Philippines</item>
+        <item>PL, Poland</item>
+        <item>PF, French Polynesia</item>
+        <item>PT, Portugal</item>
+        <item>PR, Puerto Rico</item>
+        <item>QA, Qatar</item>
+        <item>RO, Romania</item>
+        <item>RU, Russia</item>
+        <item>LC, Saint Lueia</item>
+        <item>VC, Saint Vincent</item>
+        <item>SM, San Marino</item>
+        <item>ST, Sao Tome and Principe</item>
+        <item>SA, Saudi Arabia</item>
+        <item>SN, Senegal</item>
+        <item>SC, Seychelles</item>
+        <item>SL, Sierra Leone</item>
+        <item>SG, Singapore</item>
+        <item>SK, Slovakia</item>
+        <item>SI, Slovenia</item>
+        <item>SB, Solomon Is.</item>
+        <item>SO, Somali</item>
+        <item>ZA, South Africa</item>
+        <item>ES, Spain</item>
+        <item>LK, Sri Lanka</item>
+        <item>SD, Sudan</item>
+        <item>SR, Suriname</item>
+        <item>SZ, Swaziland</item>
+        <item>SE, Sweden</item>
+        <item>CH, Switzerland</item>
+        <item>SY, Syria</item>
+        <item>TW, Taiwan</item>
+        <item>TJ, Tajikstan</item>
+        <item>TZ, Tanzania</item>
+        <item>TH, Thailand</item>
+        <item>TG, Togo</item>
+        <item>TO, Tonga</item>
+        <item>TT, Trinidad and Tobago</item>
+        <item>TN, Tunisia</item>
+        <item>TR, Turkey</item>
+        <item>TM, Turkmenistan</item>
+        <item>UG, Uganda</item>
+        <item>UA, Ukraine</item>
+        <item>AE, United Arab Emirates</item>
+        <item>GB, United Kiongdom</item>
+        <item>US, United States of America</item>
+        <item>UY, Uruguay</item>
+        <item>UZ, Uzbekistan</item>
+        <item>VE, Venezuela</item>
+        <item>VN, Vietnam</item>
+        <item>YE, Yemen</item>
+        <item>YU, Yugoslavia</item>
+        <item>ZW, Zimbabwe</item>
+        <item>ZR, Zaire</item>
+        <item>ZM, Zambia</item>
+    </string-array>
+    <string-array name="majors">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>CIS</item>
+    </string-array>
+</resources>
